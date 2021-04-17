@@ -1,0 +1,10 @@
+{
+    "groupActiveData":{
+        "totalTime": 11.3,
+        "studyTime": 9,
+        "restTime": 2,
+        "otherTime": 0.3,
+        "activePercent": "80%",
+        "activeRate": "B"
+    }
+}

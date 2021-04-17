@@ -1,0 +1,46 @@
+{
+    "analysisData": [
+        {
+            "name": "03.08",
+            "studyTime": 0,
+            "restTime": 0,
+            "otherTime": 0
+        },
+        {
+            "name": "03.09",
+            "studyTime": 0,
+            "restTime": 0,
+            "otherTime": 0
+        },
+        {
+            "name": "03.10",
+            "studyTime": 8,
+            "restTime": 1.5,
+            "otherTime": 0.5
+        },
+        {
+            "name": "03.11",
+            "studyTime": 0,
+            "restTime": 0,
+            "otherTime": 0
+        },
+        {
+            "name": "03.12",
+            "studyTime": 0,
+            "restTime": 0,
+            "otherTime": 0
+        },
+        {
+            "name": "03.13",
+            "studyTime": 3,
+            "restTime": 0.8,
+            "otherTime": 0.2
+        },
+        {
+            "name": "03.14",
+            "studyTime": 0,
+            "restTime": 0,
+            "otherTime": 0
+        }
+    ]
+}

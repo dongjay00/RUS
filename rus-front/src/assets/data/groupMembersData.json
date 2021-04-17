@@ -1,0 +1,22 @@
+{
+    "groupMembersData" : [
+        {
+            "id": 1,
+            "account_email": "ssafy@ssafy.com",
+            "nickname": "ssafy",
+            "profile_img": "https://t1.daumcdn.net/cfile/tistory/2207573D58CFDE2704"
+        },
+        {
+            "id": 2,
+            "account_email": "ssafy@ssafy.com",
+            "nickname": "ssafy",
+            "profile_img": "https://t1.daumcdn.net/cfile/tistory/2207573D58CFDE2704"
+        },
+        {
+            "id": 3,
+            "account_email": "ssafy@ssafy.com",
+            "nickname": "ssafy",
+            "profile_img": "https://t1.daumcdn.net/cfile/tistory/2207573D58CFDE2704"
+        }
+    ]
+}

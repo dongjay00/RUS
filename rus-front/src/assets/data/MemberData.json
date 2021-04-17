@@ -1,0 +1,34 @@
+{
+    "memberData": [
+        {
+            "name": "구진범",
+            "act": "팀원",
+            "position": "AI모델, 백엔드",
+            "src": "https://cdn.vuetifyjs.com/images/john.png"
+        },
+        {
+            "name": "노천명",
+            "act": "팀원",
+            "position": "프론트엔드, 기획",
+            "src": "https://cdn.vuetifyjs.com/images/john.png"
+        },
+        {
+            "name": "박승범",
+            "act": "팀원",
+            "position": "백엔드, UCC",
+            "src": "https://cdn.vuetifyjs.com/images/john.png"
+        },
+        {
+            "name": "이동훈",
+            "act": "팀장",
+            "position": "백엔드, 인프라",
+            "src": "https://cdn.vuetifyjs.com/images/john.png"
+        },
+        {
+            "name": "조우리",
+            "act": "팀원",
+            "position": "프론트엔드, 디자인",
+            "src": "https://cdn.vuetifyjs.com/images/john.png"
+        }
+    ]
+}

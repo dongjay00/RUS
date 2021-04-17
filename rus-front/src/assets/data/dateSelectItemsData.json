@@ -1,0 +1,16 @@
+{
+    "dateSelectItems": [
+        {
+            "type": "week",
+            "name": "주 단위"
+        },
+        {
+            "type": "month",
+            "name": "월 단위"
+        },
+        {
+            "type": "year",
+            "name": "년 단위"
+        }
+    ]
+}

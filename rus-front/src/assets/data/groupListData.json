@@ -1,0 +1,32 @@
+{
+    "groupListData": [
+        {
+            "group_pk": 1,
+            "name": "SSAFY 특화 B101팀"
+        },
+        {
+            "group_pk": 2,
+            "name": "SSAFY 특화 B102팀"
+        },
+        {
+            "group_pk": 3,
+            "name": "SSAFY 특화 B103팀"
+        },
+        {
+            "group_pk": 4,
+            "name": "SSAFY 특화 B104팀"
+        },
+        {
+            "group_pk": 5,
+            "name": "SSAFY 특화 B105팀"
+        },
+        {
+            "group_pk": 6,
+            "name": "SSAFY 특화 B106팀"
+        },
+        {
+            "group_pk": 7,
+            "name": "SSAFY 특화 B107팀"
+        }
+    ]
+}
